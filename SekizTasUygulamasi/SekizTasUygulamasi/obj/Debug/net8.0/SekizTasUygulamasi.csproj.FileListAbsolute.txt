@@ -1,0 +1,14 @@
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\bin\Debug\net8.0\SekizTasUygulamasi.exe
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\bin\Debug\net8.0\SekizTasUygulamasi.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\bin\Debug\net8.0\SekizTasUygulamasi.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\bin\Debug\net8.0\SekizTasUygulamasi.dll
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\bin\Debug\net8.0\SekizTasUygulamasi.pdb
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\SekizTasUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\SekizTasUygulamasi.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\SekizTasUygulamasi.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\SekizTasUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\SekizTasUygulamasi.dll
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\refint\SekizTasUygulamasi.dll
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\SekizTasUygulamasi.pdb
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\SekizTasUygulamasi.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\223311133.Yılmaz.Sayar.Koleksiyon.Uygulamasi\SekizTasUygulamasi\SekizTasUygulamasi\obj\Debug\net8.0\ref\SekizTasUygulamasi.dll
